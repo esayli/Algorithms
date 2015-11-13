@@ -1,4 +1,4 @@
-https://jsfiddle.net/arp8hx33/32/
+//https://jsfiddle.net/arp8hx33/32/
 
 var arr = [14, 7, 3, 12, 9, 11, 6, 2, 4];
 var splittedArray = [];
